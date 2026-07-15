@@ -11,9 +11,6 @@ SecureGuard is an advanced, comprehensive security analysis platform that integr
 - **Framework Mapping**: Automatically map detected vulnerabilities to standard security frameworks like CWE, MITRE ATT&CK, and OWASP, making compliance tracking effortless.
 - **Knowledge Base**: Integrated contextual help providing mitigation strategies and code examples for fixing identified vulnerabilities.
 
-| Runtime Analysis | Risk Dashboard |
-|------------------|----------------|
-| ![Runtime Analysis](screenshots/runtime-analysis.png) | ![Risk Dashboard](screenshots/risk-dashboard.png) |
 
 ## 🛠️ Technologies Used
 
