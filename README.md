@@ -1,6 +1,5 @@
 # SecureGuard
 
-![Project Banner](screenshots/dashboard.png)
 
 SecureGuard is an advanced, comprehensive security analysis platform that integrates static code analysis, runtime memory monitoring, and risk assessment into a single cohesive interface. Built for developers and security engineers, SecureGuard simplifies the process of identifying, mapping, and resolving vulnerabilities in C/C++ applications.
 
@@ -11,12 +10,6 @@ SecureGuard is an advanced, comprehensive security analysis platform that integr
 - **Risk Dashboard**: Get an immediate executive summary of your project's security posture, including severity breakdowns and historical trends.
 - **Framework Mapping**: Automatically map detected vulnerabilities to standard security frameworks like CWE, MITRE ATT&CK, and OWASP, making compliance tracking effortless.
 - **Knowledge Base**: Integrated contextual help providing mitigation strategies and code examples for fixing identified vulnerabilities.
-
-## 📸 Screenshots
-
-| Dashboard | Static Analysis |
-|-----------|-----------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Static Analysis](screenshots/static-analysis.png) |
 
 | Runtime Analysis | Risk Dashboard |
 |------------------|----------------|
